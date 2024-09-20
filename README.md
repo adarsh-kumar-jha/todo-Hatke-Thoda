@@ -176,4 +176,3 @@ Made with 💻 by **[ADARSH]**
 - Included **authentication API endpoints**.
 - Updated **project structure** to show the authentication files.
 
-Let me know if you'd like to refine any other details!
